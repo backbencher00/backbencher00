@@ -1,6 +1,6 @@
 ### Hi there,I am sourbah singh 👋
 
-- 🔭 I’m currently studying in Panjab University ...
+- 🔭 I’m currently studying in Panjab University
 - 🌱 I’m currently learning javascript, Data structure and Machine Learning 
 - 💬 Ask me about anything i would be happy to help
 - 📫 How to reach me: [twitter](https://twitter.com/home), [linkedin](https://www.linkedin.com/in/sourabhsingh282/), [instagram](https://www.instagram.com/sourabhsingh282/)
