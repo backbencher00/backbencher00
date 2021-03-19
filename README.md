@@ -1,4 +1,4 @@
-### Hi there,I am sourbah singh 👋
+### Hi there, I am Sourbah Singh 👋
 
 - 🔭 I’m currently studying in Panjab University
 - 🌱 I’m currently learning javascript, Data structure and Machine Learning 
