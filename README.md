@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying in [Panjab University](https://puchd.ac.in/)
 - 💻 I’m currently a Team Member of [Design Innovation Centre](http://dic.puchd.ac.in/)
-- 🖥 I’m  currently a Participant in [girlscriptsummerofcode](https://gssoc.girlscript.tech/)
+- 🖥 I’m  currently a Participant in [girlscript summer of code](https://gssoc.girlscript.tech/)
 - 🌱 I’m currently learning Javascript, Data structure and Machine Learning 
 - 💬 Ask me about anything I would be happy to help
 - 📫 How to reach me:   [Twitter](https://twitter.com/home),   [Linkedin](https://www.linkedin.com/in/sourabhsingh282/),   [Instagram](https://www.instagram.com/sourabhsingh282/),   [Blog](https://unlockalgorithm-hpt43b5es-sourabhsingh282.vercel.app/)
