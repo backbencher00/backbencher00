@@ -2,6 +2,8 @@
 ### Read My [Personal Blog](https://sourabhsingh282.vercel.app/)
 - 🔭 I’m currently studying in [Panjab University](https://puchd.ac.in/)
 - 💻 I’m currently a Team Member of [Design Innovation Centre](http://dic.puchd.ac.in/)
+- 4⭐ Coder @  [Codechef](https://www.codechef.com/users/sourabhsingh28)
+- 5⭐ in problem solving on [Hackkerrank](https://www.hackerrank.com/sourabhsingh282)
 - 🖥 I’m  currently a Participant in [girlscript summer of code](https://gssoc.girlscript.tech/)
 - 🌱 I’m currently learning Javascript, Data structure and Machine Learning 
 - 💬 Ask me about anything I would be happy to help
