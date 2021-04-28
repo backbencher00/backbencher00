@@ -8,15 +8,8 @@
 - 🌱 I’m currently learning Javascript, Data structure and Machine Learning 
 - 💬 Ask me about anything I would be happy to help
 ## 📫 How to reach me:   
- 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ [Twitter](https://twitter.com/home),   [Linkedin](https://www.linkedin.com/in/sourabhsingh282/),   [Instagram](https://www.instagram.com/sourabhsingh282/),   [Facebook](https://www.facebook.com/sourabhsingh282/)
 
-
-[twitter]:https://twitter.com/sourabhsingh282
-[instagram]: https://www.instagram.com/sourabhsingh282/ 
-[linkedin]: https://www.linkedin.com/in/sourabhsingh282/
 
 
 
@@ -29,9 +22,17 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ..
 - ⚡ Fun fact: - 😄 Pronouns: ...
+- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[twitter]:https://twitter.com/sourabhsingh282
+[instagram]: https://www.instagram.com/sourabhsingh282/ 
+[linkedin]: https://www.linkedin.com/in/sourabhsingh282/
 
 Here are some ideas to get you started:
-[Twitter](https://twitter.com/home),   [Linkedin](https://www.linkedin.com/in/sourabhsingh282/),   [Instagram](https://www.instagram.com/sourabhsingh282/),   [Facebook](https://www.facebook.com/sourabhsingh282/)
+
 
 
 -->
