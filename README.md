@@ -7,8 +7,8 @@
 - 🖥 I’m  currently a Participant in [girlscript summer of code](https://gssoc.girlscript.tech/)
 - 🌱 I’m currently learning Javascript, Data structure and Machine Learning 
 - 💬 Ask me about anything I would be happy to help
-- 📫 How to reach me:   [Twitter](https://twitter.com/home),   [Linkedin](https://www.linkedin.com/in/sourabhsingh282/),   [Instagram](https://www.instagram.com/sourabhsingh282/),   [Facebook](https://www.facebook.com/sourabhsingh282/)
-<img src= "https://github-readme-stats.vercel.app/api?username=sourabhsingh282&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- 📫 How to reach me:   
+
  
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,9 +22,8 @@
 
 
 
-
-
-[<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sourabhsingh282" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sourabhsingh282?trk=profile-badge">Sourabh Singh</a></div>)
+<img src= "https://github-readme-stats.vercel.app/api?username=sourabhsingh282&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ 
               
 <!--
 **sourabhsingh282/sourabhsingh282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +32,7 @@
 - ⚡ Fun fact: - 😄 Pronouns: ...
 
 Here are some ideas to get you started:
-
+[Twitter](https://twitter.com/home),   [Linkedin](https://www.linkedin.com/in/sourabhsingh282/),   [Instagram](https://www.instagram.com/sourabhsingh282/),   [Facebook](https://www.facebook.com/sourabhsingh282/)
 
 
 -->
