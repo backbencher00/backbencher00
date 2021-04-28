@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning Javascript, Data structure and Machine Learning 
 - 💬 Ask me about anything I would be happy to help
 ## 📫 How to reach me:   
- [Twitter](https://twitter.com/home),   [Linkedin](https://www.linkedin.com/in/sourabhsingh282/),   [Instagram](https://www.instagram.com/sourabhsingh282/),   [Facebook](https://www.facebook.com/sourabhsingh282/)
-
+ [Twitter](https://twitter.com/home),   [Linkedin](https://www.linkedin.com/in/sourabhsingh282/),   [Instagram](https://www.instagram.com/sourabhsingh282/)
 
 
 
