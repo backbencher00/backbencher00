@@ -7,8 +7,7 @@
 - 🖥 I’m  currently a Participant in [girlscript summer of code](https://gssoc.girlscript.tech/)
 - 🌱 I’m currently learning Javascript, Data structure and Machine Learning 
 - 💬 Ask me about anything I would be happy to help
-- 📫 How to reach me:   
-
+## 📫 How to reach me:   
  
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
