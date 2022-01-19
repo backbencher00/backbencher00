@@ -1,6 +1,6 @@
 ### Hi there, I am Sourabh Singh 👋
 ### Read My [Personal Blog](https://sourabhsingh282.vercel.app/)
-- 🔭 I’m currently studying in [Panjab University](https://puchd.ac.in/)
+- 🔭 I’m currently working in [Onceuponatrunk](https://www.onceuponatrunk.com)
 - 💻 I’m currently a Team Member of [Design Innovation Centre](http://dic.puchd.ac.in/)
 - 4⭐ Coder @  [Codechef](https://www.codechef.com/users/sourabhsingh28)
 - 🌱 I’m currently learning Data structure  
