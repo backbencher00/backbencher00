@@ -1,7 +1,6 @@
-### Hi there, I am Sourabh Singh 👋
-## Read My [Personal Blog](https://sourabhsingh282.vercel.app/)
-- 🔭 I’m currently working in [Onceuponatrunk](https://www.onceuponatrunk.com) as a Backend Engineer
-- 💻 I’m currently a Team Member of [Design Innovation Centre](http://dic.puchd.ac.in/)
+## Hi there, I am Sourabh Singh 👋
+# Read My [Personal Blog](https://sourabhsingh282.vercel.app/)
+- 🔭 I’m a Backend Engineer at [Onceuponatrunk](https://www.onceuponatrunk.com) as a Backend Engineer
 - 4⭐ Coder @[Codechef](https://www.codechef.com/users/sourabhsingh28)
 - language : JAVA , C, C++, Python
 - DataBase : Mysql, Redis , Elastic Search
