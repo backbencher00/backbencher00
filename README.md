@@ -1,9 +1,12 @@
 ### Hi there, I am Sourabh Singh 👋
-### Read My [Personal Blog](https://sourabhsingh282.vercel.app/)
-- 🔭 I’m currently working in [Onceuponatrunk](https://www.onceuponatrunk.com)
+## Read My [Personal Blog](https://sourabhsingh282.vercel.app/)
+- 🔭 I’m currently working in [Onceuponatrunk](https://www.onceuponatrunk.com) as a Backend Engineer
 - 💻 I’m currently a Team Member of [Design Innovation Centre](http://dic.puchd.ac.in/)
-- 4⭐ Coder @  [Codechef](https://www.codechef.com/users/sourabhsingh28)
-- 🌱 I’m currently learning Data structure  
+- 4⭐ Coder @[Codechef](https://www.codechef.com/users/sourabhsingh28)
+- language : JAVA , C, C++, Python
+- DataBase : Mysql, Redis , Elastic Search
+- TechSatck : spring boot, Jdbc
+- 🌱 I’m currently learning building the scalable system  
 - 💬 Ask me about anything I would be happy to help
 ## 📫 How to reach me:   
  [Twitter](https://twitter.com/home),   [Linkedin](https://www.linkedin.com/in/sourabhsingh282/),   [Instagram](https://www.instagram.com/sourabhsingh282/)
