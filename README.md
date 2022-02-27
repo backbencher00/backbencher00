@@ -4,7 +4,7 @@
 - 4⭐ Coder @[Codechef](https://www.codechef.com/users/sourabhsingh28)
 - language : JAVA , C, C++, Python
 - DataBase : Mysql, Redis , Elastic Search
-- TechSatck : spring boot, Jdbc
+- TechSatck : spring boot, Jdbc ,jpa , hebernetes 
 - 🌱 I’m currently learning building the scalable system  
 - 💬 Ask me about anything I would be happy to help
 ## 📫 How to reach me:   
