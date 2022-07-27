@@ -5,8 +5,7 @@
 - language : JAVA , C, C++, Python
 - DataBase : Mysql, Redis, Elastic Search
 - TechSatck : Rest Apis, spring, maven, spring boot, Jdbc, jpa, hebernetes, apache velocity, itext, thymeleaf, jsp, jenkins, aws
-- Database : redis, mysql, elastic
-- Core : Design Pattern, Design Principles, System  Design, Data Structure
+- Core : Design Pattern, Design Principles, System  Design, Data Structure and algorithms, microservices
 - 🌱 Building scalable system  for different teams 
 - 💬 Ask me about anything I would be happy to help
 - 👯 want to learn....! I have covered all the major topics and a path to become good backend engineer  you can refer my github repo's. I have done these repo public take refrences from there and raise issues, if you are not able to understand
