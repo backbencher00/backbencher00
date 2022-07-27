@@ -9,7 +9,7 @@
 - Core : Design Pattern, Design Principles, System  Design, Data Structure
 - 🌱 Building scalable system  for different teams 
 - 💬 Ask me about anything I would be happy to help
-- 👯 want to learn....! I have covered all the major tops and a path to become good backend engineer In my different github repo's. I have done these repo public take refrences from there and raise issue if you are not able to understand
+- 👯 want to learn....! I have covered all the major topics and a path to become good backend engineer  you can refer my github repo's. I have done these repo public take refrences from there and raise issues, if you are not able to understand
 ## 📫 How to reach me (can dm me i will help if there is any query):   
 [Linkedin](https://www.linkedin.com/in/sourabhin076/)
 <img src= "https://github-readme-stats.vercel.app/api?username=backbencher00&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
