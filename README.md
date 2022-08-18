@@ -2,11 +2,11 @@
 # Read My [Personal Blog](https://sourabhsingh282.vercel.app/)
 - 🔭 I’m a Backend Engineer at [taggd.com](https://www.taggd.com)
 - 4⭐ Coder @[Codechef](https://www.codechef.com/users/sourabhsingh28)
-- language : JAVA , C, C++, Python
-- DataBase : Mysql, Redis, Elastic Search
+- language : JAVA , C, C++
+- DataBase : Mysql, Redis
 - TechSatck : Rest Apis, spring, maven, spring boot, Jdbc, jpa, hebernetes, apache velocity, itext, thymeleaf, jsp, jenkins, aws
 - Core : Design Pattern, Design Principles, System  Design, Data Structure and algorithms, microservices
-- 🌱 Building scalable system  for different teams 
+- 🌱 Building scalable systems for different teams 
 - 💬 Ask me about anything I would be happy to help
 - 👯 want to learn....! I have covered all the major topics and a path to become good backend engineer  you can refer my github repo's. I have done these repo public take refrences from there and raise issues, if you are not able to understand
 ## 📫 How to reach me (can dm me i will help if there is any query):   
