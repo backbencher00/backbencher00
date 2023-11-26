@@ -9,4 +9,3 @@
 - 🌱 Building scalable systems for different teams 
 - 💬 Ask me about anything I would be happy to help
 - 👯 want to learn....! I have covered all the major topics and a path to become good backend engineer, you can refer my github public repo's.
-## 📫 How to reach me (can dm me i will help if there is any query):
